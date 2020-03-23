@@ -6,13 +6,13 @@
 
 ### Learning Objectives
 
--[] Understand the different types in JavaScript 
--[] Uses the defaults effectively 
--[] Creates new strings by concatenation 
--[] Convert a string to a float 
--[] Convert a string to an int 
--[] Recognize an array literals 
--[] Recognize an object literal
+- [ ] Understand the different types in JavaScript 
+- [ ] Uses the defaults effectively 
+- [ ] Creates new strings by concatenation 
+- [ ] Convert a string to a float 
+- [ ] Convert a string to an int 
+- [ ] Recognize an array literals 
+- [ ] Recognize an object literal
 
 ### Requirements
 
